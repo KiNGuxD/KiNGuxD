@@ -8,7 +8,6 @@
 - `🥃` CuRReNTLY STuDiNG PYTHoN
 - `📖` CuRReNT PRoJEeCT - DiNo SuLFBuT v1.1
 
-<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/931492245536911380/932213976069177394/unknown.png">
 
 <br />
 
